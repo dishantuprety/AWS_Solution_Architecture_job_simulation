@@ -1,4 +1,4 @@
-# AWS_Solution_Architecture_job_simulation
+# AWS_Solutions_Architecture_job_simulation
 This repository documents my completion of the AWS Solutions Architecture Job Simulation offered by Forage (September 2025).
 The task was based on a real-world client scenario: a customer experienced website downtime, and I had to propose a reliable AWS-based architecture to minimize downtime and improve availability.
 
@@ -34,4 +34,4 @@ Key Learnings
 Certificate
 
 Issued by Forage on September 2025
-You can view my [AWS Solution Architechture Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_68c1facde927094fbe809217_1757674415411_completion_certificate.pdf)
+You can view my [AWS Solutions Architechture Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_68c1facde927094fbe809217_1757674415411_completion_certificate.pdf)
