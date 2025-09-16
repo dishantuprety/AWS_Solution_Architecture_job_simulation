@@ -34,4 +34,4 @@ Key Learnings
 Certificate
 
 Issued by Forage on September 2025
-You can view my [AWS Solutions Architechture Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_68c1facde927094fbe809217_1757674415411_completion_certificate.pdf)
+You can view my [AWS Solutions Architechture Job Simulation](AWS_sim.pdf)
